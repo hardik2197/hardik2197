@@ -34,9 +34,9 @@
 
 <a href="https://mail.google.com/mail/u/0/#inbox"><img src="http://img.shields.io/badge/Gmail-hworldinfo2107@gmail.com-red?style=for-the-badge&logo=Gmail"></a>
 
-<a href="https://twitter.com/_MR_0100"><img src="http://img.shields.io/badge/Twitter-@hardikb07-red?style=for-the-badge&logo=Twitter"></a>
+<a href="https://twitter.com/hardikb07"><img src="http://img.shields.io/badge/Twitter-@hardikb07-red?style=for-the-badge&logo=Twitter"></a>
 
-<a href="https://www.instagram.com/mr_vaghasiya_0100/"><img src="http://img.shields.io/badge/Instagram-im_hardik2111-red?style=for-the-badge&logo=Instagram"></a>
+<a href="https://www.instagram.com/im_hardik2111/"><img src="http://img.shields.io/badge/Instagram-im__hardik2111-red?style=for-the-badge&logo=Instagram"></a>
 
 
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik2197&theme=dark&hide_langs_below=1&layout=compact" /><img height="190" src="https://github-readme-stats.vercel.app/api?username=hardik2197&&show_icons=true&title_color=fff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
